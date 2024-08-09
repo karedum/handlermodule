@@ -1,0 +1,20 @@
+<?php
+$MESS["DV_ERRORHANDLING_TAB_GENERAL"] = "Общие настройки";
+$MESS["DV_ERRORHANDLING_TAB_FILES"] = "Файлы";
+$MESS["DV_ERRORHANDLING_TAB_EMAIL"] = "Почта";
+$MESS["DV_ERRORHANDLING_TAB_ELASTICHSEARCH"] = "Elasticsearch";
+$MESS["DV_ERRORHANDLING_TAB_JOURNAL"] = "Журнал событий";
+$MESS["DV_ERRORHANDLING_DAYS_STORE_FILE"] = "Сколько дней хранить файлы";
+$MESS["DV_ERRORHANDLING_FOLDER_PATH"] = "Папка для хранения файлов (пример: /local/test)";
+$MESS["DV_ERRORHANDLING_TOTAL_SIZE_FILES"] = "Общий размер хранимых файлов (в МБ)";
+$MESS["DV_ERRORHANDLING_FILE_EXTENSIONS"] = "Расширение для файла";
+$MESS["DV_ERRORHANDLING_LENGTH_MESSAGES"] = "Длина сообщения";
+$MESS["DV_ERRORHANDLING_TRACE_LENGTH"] = "Длина трейса";
+$MESS["DV_ERRORHANDLING_TRACE_ARGS"] = "Аргументы трейса";
+$MESS["DV_ERRORHANDLING_EMAIL_TYPE_SEND"] = "Тип отправки";
+$MESS["DV_ERRORHANDLING_SENDING_INTERVAL"] = "Интервал отправки, минут";
+$MESS["DV_ERRORHANDLING_ELASTIC_TYPE_CONNECT"] = "Тип соединения";
+$MESS["DV_ERRORHANDLING_CHANNELS"] = "Каналы";
+$MESS["DV_ERRORHANDLING_ELASTIC_HOST"] = "Хост";
+$MESS["DV_ERRORHANDLING_ELASTIC_USER"] = "Login";
+$MESS["DV_ERRORHANDLING_ELASTIC_PASSWORD"] = "Password";
